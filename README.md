@@ -85,7 +85,7 @@ Analysis leverages synthetic data seeded with public anchors (ISAPS, DREES, nati
 ### 1. Revenue Trajectory with Regulatory Impact
 
 <div align="center">
-<img src="https://github.com/LakovskyR/Aesthetics/blob/main/1.png">
+<img src="https://github.com/LakovskyR/Aesthetics/blob/main/1.png" width="75%">
 </div>
 
 <table>
