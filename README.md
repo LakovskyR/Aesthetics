@@ -1,4 +1,4 @@
-# Sample Aesthetics — France vs Benelux Commercial Performance
+# Sample Aesthetics - France vs Benelux Commercial Performance
 
 <div align="center">
 
