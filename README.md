@@ -163,7 +163,7 @@ Benelux clinic tiering appears miscalibrated—current tier assignments don't pr
 ### 3. Rep Productivity: Visit-to-Revenue Correlation
 
 <div align="center">
-<img src="https://github.com/LakovskyR/Aesthetics/blob/main/3.png">
+<img src="https://github.com/LakovskyR/Aesthetics/blob/main/3.png" width="75%">
 </div>
 
 <table>
@@ -202,7 +202,7 @@ Focus rep time on Top-tier clinics where visits demonstrably drive revenue. **Pi
 ### 4. Promotion Event Study: Diff-in-Diff Analysis
 
 <div align="center">
-<img src="https://github.com/LakovskyR/Aesthetics/blob/main/4.png">
+<img src="https://github.com/LakovskyR/Aesthetics/blob/main/4.png" width="75%">
 </div>
 
 <table>
@@ -241,7 +241,7 @@ Promotions work, especially when targeted at high-opportunity clinics. **Impleme
 ### 5. Territory Opportunity Mapping & Pilot Design
 
 <div align="center">
-<img src="https://github.com/LakovskyR/Aesthetics/blob/main/5.png">
+<img src="https://github.com/LakovskyR/Aesthetics/blob/main/5.png" width="75%">
 </div>
 
 <table>
@@ -281,7 +281,7 @@ Launch **Q1 2026 pilot: 35 Benelux clinics, +1 visit/month, 3-month duration**. 
 ### 6. Sales Incentive Plan Simulation
 
 <div align="center">
-<img src="https://github.com/LakovskyR/Aesthetics/blob/main/6.png">
+<img src="https://github.com/LakovskyR/Aesthetics/blob/main/6.png" width="75%">
 </div>
 
 <table>
