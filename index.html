@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>90-Day Plan — SFE Lead ↔ BI Manager</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Header Section -->
+    <header class="app-header">
+        <div class="header-content">
+            <div class="header-title-section">
+                <h1 class="header-title">90-Day Plan — SFE Lead ↔ BI Manager</h1>
+                <p class="header-subtitle">Strategic roadmap for field excellence transformation with measurable KPIs and pilot execution</p>
+            </div>
+            <div class="header-actions">
+                <div class="scenario-toggle">
+                    <button class="toggle-btn active" data-scenario="sfe_lead">SFE Lead</button>
+                    <button class="toggle-btn" data-scenario="bi_manager">BI Manager</button>
+                </div>
+                <button class="btn-compare" id="compareBtn">Compare Scenarios</button>
+            </div>
+            <div class="contact-info">
+                <span class="contact-name">Roman Lakovskiy</span>
+                <span class="contact-divider">|</span>
+                <a href="https://www.linkedin.com/in/roman-lakovskiy/" target="_blank" class="contact-link">LinkedIn</a>
+                <span class="contact-divider">|</span>
+                <span class="contact-detail">06-15-14-93-95</span>
+                <span class="contact-divider">|</span>
+                <span class="contact-detail">lakovskiy@outlook.fr</span>
+            </div>
+        </div>
+    </header>
+
+    <!-- Milestones Timeline -->
+    <section class="milestones-section">
+        <div class="milestones-container">
+            <div class="timeline-line"></div>
+            <div class="milestones-track" id="milestonesTrack">
+                <!-- Milestones will be dynamically inserted -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Main Dashboard -->
+    <main class="dashboard-main">
+        <div class="dashboard-container">
+            <!-- Left: Gantt Chart -->
+            <div class="gantt-section">
+                <h2 class="section-title">Task Timeline</h2>
+                <div class="gantt-chart" id="ganttChart">
+                    <!-- Gantt chart will be dynamically inserted -->
+                </div>
+            </div>
+
+            <!-- Right: KPI Cards -->
+            <div class="kpi-section">
+                <h2 class="section-title">Key Performance Indicators</h2>
+                <div class="kpi-cards" id="kpiCards">
+                    <!-- KPI cards will be dynamically inserted -->
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Priority Actions Section -->
+    <section class="priority-section">
+        <div class="priority-container">
+            <h2 class="section-title">Priority Actions</h2>
+            <div class="priority-cards" id="priorityCards">
+                <!-- Priority actions will be dynamically inserted -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Risk Management Section -->
+    <section class="risk-section">
+        <div class="risk-container">
+            <div class="risk-header" id="riskHeader">
+                <h2 class="section-title">Risk Management</h2>
+                <button class="expand-btn" id="expandRiskBtn">
+                    <svg width="20" height="20" viewBox="0 0 20 20" fill="currentColor">
+                        <path d="M10 12.5l-5-5 1.5-1.5L10 9.5l3.5-3.5L15 7.5z"/>
+                    </svg>
+                </button>
+            </div>
+            <div class="risk-content" id="riskContent">
+                <div class="risk-cards" id="riskCards">
+                    <!-- Risk cards will be dynamically inserted -->
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Task Detail Panel -->
+    <div class="task-panel" id="taskPanel">
+        <div class="task-panel-header">
+            <h3 class="task-panel-title" id="taskPanelTitle">Task Details</h3>
+            <button class="close-btn" id="closeTaskPanel">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <line x1="18" y1="6" x2="6" y2="18"></line>
+                    <line x1="6" y1="6" x2="18" y2="18"></line>
+                </svg>
+            </button>
+        </div>
+        <div class="task-panel-content" id="taskPanelContent">
+            <!-- Task details will be dynamically inserted -->
+        </div>
+    </div>
+
+    <!-- Comparison Modal -->
+    <div class="modal-overlay" id="comparisonModal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 class="modal-title">Scenario Comparison</h2>
+                <button class="close-btn" id="closeModalBtn">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <line x1="18" y1="6" x2="6" y2="18"></line>
+                        <line x1="6" y1="6" x2="18" y2="18"></line>
+                    </svg>
+                </button>
+            </div>
+            <div class="modal-body" id="comparisonContent">
+                <!-- Comparison content will be dynamically inserted -->
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
