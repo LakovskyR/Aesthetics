@@ -35,7 +35,7 @@
 France generates €16.9M (4.3x Benelux) with accelerating momentum (+14% H1→H2 growth), while Benelux plateaus at €3.9M (+7.2% growth). **The root cause isn't market size—it's targeting precision.** Benelux has 67% coverage (similar to France's 65%), but visits convert at 2.5x lower rates. Fix targeting, and we unlock €148K+ annually with zero new headcount.
 
 <div align="center">
-<img src="https://github.com/LakovskyR/Aesthetics/blob/main/0.png">
+  <img src="https://github.com/LakovskyR/Aesthetics/blob/main/0.png" width="50%">
 </div>
 
 <table>
