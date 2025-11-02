@@ -317,31 +317,6 @@ Current SIP (Variant A) rewards raw visit volume, encouraging breadth over depth
 
 ---
 
-## Visual Styling Guide (for Webapp)
-
-**Color Palette** (Allergan Aesthetics-inspired):
-- **Copper accent**: #B87333 — use for KPIs, highlights, regression lines, key data points
-- **Pale Peach background**: #F5EFE6 — cards, backgrounds, secondary areas
-- **Light Tan**: #DABFAA — tertiary accents, borders
-- **Dark text**: #212121 — primary text, labels
-- **White**: #FFFFFF — clean backgrounds, contrast areas
-
-**Typography**:
-- Font family: Helvetica Neue or system sans-serif
-- Heading: 24–28px bold
-- Subheading: 18–20px medium
-- Body text: 12–14px regular
-- Chart labels: 10–12px
-
-**Chart Guidelines**:
-- Use varied chart types across the 6 visuals (line, scatter, heatmap, event study, Sankey, curves)
-- Copper should be the hero color (highlights, callouts, key series)
-- Minimize gridlines and non-data ink
-- Include clear legends and axis labels
-- Ensure accessibility: sufficient contrast, readable labels
-
----
-
 ## Methodology & Caveats
 
 This analysis uses **synthetic data seeded with public anchors** (ISAPS global aesthetic procedure volumes, DREES French healthcare data, national clinic registries). All patterns reflect realistic commercial dynamics but are not actual company data.
